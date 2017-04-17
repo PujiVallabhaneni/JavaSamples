@@ -1,8 +1,8 @@
 import java.util.Scanner;
-public class SecondTask {
+public class ReverseOfNumber {
 
 	
-	// Reverse number
+	// Reverse a number
 	
 	public void reverseOfNumber()
 	{
@@ -25,7 +25,7 @@ public class SecondTask {
 	
    public static void main(String[]args)
 	   {
-		SecondTask ST =new SecondTask();
+		ReverseOfNumber ST =new ReverseOfNumber();
 		ST.reverseOfNumber();
 	    }
 }
